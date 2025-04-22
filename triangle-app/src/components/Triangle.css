@@ -1,0 +1,30 @@
+.wrapper {
+	display: flex;
+	justify-content: center;
+	margin-top: 24px;
+  }
+  
+  .triangle-svg {
+	background-color: #ffffff;
+	border: 1px solid #ccc;
+	border-radius: 8px;
+  }
+  
+  polygon {
+	stroke: #222;
+	stroke-width: 2;
+	fill: none;
+  }
+  
+  path {
+	stroke: #0077cc;
+	stroke-width: 1.5;
+	fill: none;
+  }
+  
+  text {
+	font-size: 12px;
+	fill: #111;
+	font-weight: bold;
+  }
+  
